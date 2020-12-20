@@ -1,0 +1,4 @@
+Line 136: Class MSComDlg.CommonDialog of control dlgCommon was not a loaded control class.
+Line 139: The property name _ExtentX in dlgCommon is invalid.
+Line 140: The property name _ExtentY in dlgCommon is invalid.
+Line 141: The property name _Version in dlgCommon is invalid.

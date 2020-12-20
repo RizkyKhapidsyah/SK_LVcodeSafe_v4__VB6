@@ -1,0 +1,12 @@
+Line 100: Class MSComDlg.CommonDialog of control dlgCommon was not a loaded control class.
+Line 326: Class RichTextLib.RichTextBox of control rtfStaging was not a loaded control class.
+Line 103: The property name _ExtentX in dlgCommon is invalid.
+Line 104: The property name _ExtentY in dlgCommon is invalid.
+Line 105: The property name _Version in dlgCommon is invalid.
+Line 106: The property name CancelError in dlgCommon is invalid.
+Line 335: The property name _ExtentX in rtfStaging is invalid.
+Line 336: The property name _ExtentY in rtfStaging is invalid.
+Line 337: The property name _Version in rtfStaging is invalid.
+Line 340: The property name ReadOnly in rtfStaging is invalid.
+Line 341: The property name RightMargin in rtfStaging is invalid.
+Line 342: The property name TextRTF in rtfStaging is invalid.
